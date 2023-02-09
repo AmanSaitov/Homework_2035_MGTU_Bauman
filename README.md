@@ -13,7 +13,7 @@ This repository is for storing the tasks for the project 2035
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman Saitov)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
