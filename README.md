@@ -24,7 +24,7 @@ This repository is for storing the tasks for the project 2035
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanSaitov&theme=nonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Reposytoryes:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanSaitov&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanSaitov&repo=Aman-Saitov)](https://github.com/AmanSaitov/Aman-Saitov)
 
 > Это цитата: Если называть Python заменой BASIC, то тогда и трансформер Optimus Prime — это только замена грузовика.
 >
